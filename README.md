@@ -1,7 +1,10 @@
 # Education
-Graduate School of Information, Yonsei University (Oct. 2021 ~ )
+- Graduate School of Information, Yonsei University (Oct. 2021 ~ )
+Business Bigdata Analysis track, Digital Service Lab
 
-Accountings and Management, Sonnchunhayng University (Mar. 2015 ~ Oct. 2021)
+- Accountings and Management, Soonchunhayng University (Mar. 2015 ~ Oct. 2021) 
+Bigdata Engineering Department
+
 
 
 # Project
@@ -24,6 +27,9 @@ Accountings and Management, Sonnchunhayng University (Mar. 2015 ~ Oct. 2021)
 # Blog and Portfolio
 - blog : https://blog.naver.com/tjdqja0508/222264860982 ; 학부 중심 활동
 - Portfolio : CV.PDF
+
+# etc
+- Public, Conference 추가예정
 
 
 
