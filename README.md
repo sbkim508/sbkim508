@@ -28,10 +28,11 @@ Bigdata Engineering Department
 
 # Blog and Portfolio
 - blog : https://blog.naver.com/tjdqja0508/222264860982 ; 학부 중심 활동
-- Portfolio : CV.PDF
+- Portfolio : [학부_포트폴리오_작업중(21.05~).pdf](https://github.com/sbkim508/sbkim508/files/6794805/CV_.21.05.pdf)
 
 # etc
 - Public, Conference 추가예정
+
 
 
 
