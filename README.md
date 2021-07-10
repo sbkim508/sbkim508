@@ -17,17 +17,13 @@ Accountings and Management, Sonnchunhayng University (Mar. 2015 ~ Oct. 2021)
 - (Feb. 2021) 공공 빅데이터 청년인턴십 우수인턴 한국지능정보화사회원장상
 - (Sep. 2020) 서울특별시 빅데이터 캠퍼스 공모전 최우수상 
 
-# Research Interests
-Business Analytics, Machine Learning, Deep Learning, Recommender System, Digital Marketing, Data Mining
+# Research Interests and Skills
+- Research Interests : Business Analytics, Machine Learning, Deep Learning, Recommender System, Digital Marketing, Data Mining
+- Skills and Techniques : Python(Sklearn, Pytorch, Keras)  R, QGIS, SQL etc
 
-# Skills and Techniques
-Python(Sklearn, Pytorch, Keras)  R, QGIS, SQL etc
-
-# Blog
-https://blog.naver.com/tjdqja0508/222264860982 ; 학부 중심 활동
-
-# Portfolio
-CV.PDF
+# Blog and Portfolio
+- blog : https://blog.naver.com/tjdqja0508/222264860982 ; 학부 중심 활동
+- Portfolio : CV.PDF
 
 
 
