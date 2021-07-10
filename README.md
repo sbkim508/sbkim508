@@ -1,4 +1,4 @@
-# ~ 정리중입니다
+# ~ 아직 작성 중입니다 ㅠㅠ (미완료)
 
 # Education
 - Graduate School of Information, Yonsei University (Oct. 2021 ~ )
