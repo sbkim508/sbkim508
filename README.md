@@ -14,14 +14,14 @@ Accountings and Management, Sonnchunhayng University (Mar. 2015 ~ Oct. 2021)
 - (Aug. 2020 ~ Sep. 2020) 서울시 응급의료 전용헬기를 위한 인계점 최적입지 분석
 
 # Awards and Honors
-- 2021. 02 공공 빅데이터 청년인턴십 우수인턴 한국지능정보화사회원장상
-- 2020. 11 서울특별시 빅데이터 캠퍼스 공모전 최우수상 
+- (Feb. 2021) 공공 빅데이터 청년인턴십 우수인턴 한국지능정보화사회원장상
+- (Sep. 2020) 서울특별시 빅데이터 캠퍼스 공모전 최우수상 
 
 # Research Interests
 Business Analytics, Machine Learning, Deep Learning, Recommender System, Digital Marketing, Data Mining
 
 # Skills and Techniques
-Python, R, QGIS, SQL
+Python, R, QGIS, SQL etc
 
 # Blog
 https://blog.naver.com/tjdqja0508/222264860982 ; 학부 중심 활동
