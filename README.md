@@ -1,3 +1,5 @@
+# ~ 정리중입니다
+
 # Education
 - Graduate School of Information, Yonsei University (Oct. 2021 ~ )
 Business Bigdata Analysis track, Digital Service Lab
