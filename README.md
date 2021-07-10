@@ -21,7 +21,7 @@ Accountings and Management, Sonnchunhayng University (Mar. 2015 ~ Oct. 2021)
 Business Analytics, Machine Learning, Deep Learning, Recommender System, Digital Marketing, Data Mining
 
 # Skills and Techniques
-Python, R, QGIS, SQL etc
+Python(Sklearn, Pytorch, Keras)  R, QGIS, SQL etc
 
 # Blog
 https://blog.naver.com/tjdqja0508/222264860982 ; 학부 중심 활동
