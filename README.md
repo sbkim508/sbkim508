@@ -12,7 +12,7 @@ Bigdata Engineering Department
 # Project
 - (Sep. 2021 ~ ) 빅데이터 기반 서비스개발 R&D, "고객의사결정여정(Customer Decision Journey)에 따른 오프라인 구매 행동 데이터 수집 시스템 및 딥러닝 기반 지능형 고객 분석 서비스"
 
-- (Jul. 2021 ~ ) 한국수출액 예측을 통한 수출유망국가와 품목 추천(앙상블 예측 모델 개발과 군집화(Clustering) 기반 추천을 중심으로)
+- (Jul. 2021 ~ ) 한국수출액 예측을 통한 수출 유망국가와 품목추천 :: 앙상블 예측 모델 개발과 군집화(Clustering) 기반 추천
 - 
 - (Oct. 2020 ~ Dec. 2020) 인천광역시 지방세 체납 효율화를 위한 빅데이터 분석 :: 체납자 예측과 악성 체납유형 중심으로 
 - 
@@ -21,6 +21,9 @@ Bigdata Engineering Department
 # Awards and Honors
 - (Feb. 2021) 공공 빅데이터 청년인턴십 우수인턴 한국지능정보화사회원장상
 - (Sep. 2020) 서울특별시 빅데이터 캠퍼스 공모전 최우수상 
+
+# Competition
+- (Sep. 2021 ~ ) 신용카드 불량 예측 (65/714) ,Dacon 
 
 # Research Interests and Skills
 - Research Interests : Business Analytics, Machine Learning, Deep Learning, Recommender System, Digital Marketing, Data Mining
