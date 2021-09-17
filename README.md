@@ -22,7 +22,8 @@
 
 ## Blog and Portfolio
 - blog : https://blog.naver.com/tjdqja0508/222264860982 ; 학부 중심 활동
-- Portfolio : [학부_포트폴리오_작업중(21.05~).pdf](https://github.com/sbkim508/sbkim508/files/6794805/CV_.21.05.pdf)
+- Portfolio : [SeongBeom_Kim_Portfolio.pdf](https://github.com/sbkim508/sbkim508/files/7184173/SeongBeom_Kim_Portfolio.pdf)
+
 
 ## etc
 - Public, Conference 추가예정
@@ -31,3 +32,4 @@
 sbkim508/sbkim508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
