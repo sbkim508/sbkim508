@@ -17,8 +17,8 @@
 - (May. 2021) 신용카드 사용자 연체 예측 AI 경진대회 (65/714) ,Dacon 
 
 ## Research Interests and Skills
-- Research Interests : Business Analytics, Machine Learning, Deep Learning, Recommender System, Digital Marketing, Data Mining
-- Skills and Techniques : Python(Sklearn, Pytorch, Keras)  R, QGIS, SQL etc
+- Research Interests : Business Analytics, Machine/Deep Learning, Recommender System, Digital Marketing, Data Mining
+- Skills and Techniques : Python(Sklearn, Pytorch, Keras)  R, QGIS, SQL, Tableau etc
 
 ## Blog and Portfolio
 - blog : https://blog.naver.com/tjdqja0508/222264860982 ; 학부 중심 활동
