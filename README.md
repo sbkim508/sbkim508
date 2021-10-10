@@ -3,9 +3,9 @@
 - (Mar. 2015 ~ Aug. 2021) Accountings and Management, Bigdata Engineering Department, Soonchunhayng University 
 
 ## Project
-- (Sep. 2021 ~ ) 클릭스트림 데이터 기반 Graph theory와 Customer behavior 중심의 구매 전환 예측 모델링 (Ongoing)
-- (Sep. 2021 ~ ) 텍스트마이닝 기법을 활용한 고객 리뷰 분석 :: 마켓컬리의 인기상품군, 앱스토어, SNS 중심으로 (Ongoing)
-- (Oct. 2021 ~ ) 빅데이터 기반 서비스개발 R&D, "고객의사결정여정(Customer Decision Journey)에 따른 오프라인 구매 행동 데이터 수집 시스템 및 딥러닝 기반 지능형 고객 분석 서비스"
+- (Oct. 2021 ~ ) 클릭스트림 데이터 기반 Graph theory와 Customer behavior 중심의 구매 전환 예측 모델링 (Ongoing)
+- (Oct. 2021 ~ ) 텍스트마이닝 기법을 활용한 고객 리뷰 분석 :: 마켓컬리의 인기상품군, 앱스토어, SNS 중심으로 (Ongoing)
+- (Sep. 2021 ~ ) 빅데이터 기반 서비스개발 R&D, "고객의사결정여정(Customer Decision Journey)에 따른 오프라인 구매 행동 데이터 수집 시스템 및 딥러닝 기반 지능형 고객 분석 서비스"
 - (Jul. 2021 ~ Aug. 2021) 수출액 예측을 통한 수출 유망 국가 및 품목 추천 :: 앙상블 모형과 클러스터링을 활용한 기업 선호도 반영 추천 솔루션
 - (Oct. 2020 ~ Dec. 2020) 인천광역시 지방세 체납 효율화를 위한 빅데이터 분석 :: 체납자 예측과 악성 체납유형 중심으로 
 - (Aug. 2020 ~ Sep. 2020) 서울시 응급의료 전용헬기를 위한 인계점 최적입지 분석
