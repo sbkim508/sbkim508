@@ -3,14 +3,14 @@
 - (Mar. 2015 ~ Aug. 2021) Accountings and Management, Bigdata Engineering Department, Soonchunhayng University 
 
 ## Experience & Project
-- (Oct. 2021 ~ ) 클릭스트림 데이터 기반 구매행동 중심의 예측 모델링 :: Graph theory and Customer behavior Approach (Ongoing)
+- (Oct. 2021 ~ ) 온라인 클릭스트림 데이터 기반 구매행동 중심의 예측 모델링 :: Graph theory and Customer behavior Approach (Ongoing)
 - (Oct. 2021 ~ ) 텍스트마이닝 기법을 활용한 고객 경험(Customer Experience) 관점의 신선식품 고객 리뷰 분석 (Ongoing)
 - (Sep. 2021 ~ ) 빅데이터 기반 서비스개발 R&D, "고객의사결정여정(Customer Decision Journey)에 따른 오프라인 구매 행동 데이터 수집 시스템 및 딥러닝 기반 지능형 고객 분석 서비스"
 - (Jul. 2021 ~ Aug. 2021) 수출액 예측을 통한 수출 유망 국가 및 품목 추천 :: 앙상블 모형과 클러스터링을 활용한 기업 선호도 반영 추천 솔루션
 - (Oct. 2020 ~ Dec. 2020) 인천광역시 지방세 체납 효율화를 위한 빅데이터 분석 :: 체납자 예측과 악성 체납유형 중심으로 
 - (Aug. 2020 ~ Sep. 2020) 서울시 응급의료 전용헬기를 위한 인계점 최적입지 분석
 
-## Conference & Puplic
+## Conference & Journal
 - "Predicting purchase behavior using customer browsing behavior and customer value" International Conference on E-Education, E-Business, E-Management, and E-Learning (IC4E), Osaka Japan, January 2022.
 - " " International Conference on Innovation and Management (IAM), Webinar, Jan 2022.
 - "앙상블 모델 개발을 통한 수출액 예측과 클러스터링 기반 유망 시장 추천", 한국지능정보시스템학회 추계학술대회, 2021.12
