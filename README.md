@@ -4,7 +4,7 @@
 
 ## Experience & Project
 - (Oct. 2021 ~ ) 온라인 클릭스트림 데이터 기반 구매행동 중심의 예측 모델링 :: Graph theory and Customer behavior Approach (Ongoing)
-- (Oct. 2021 ~ ) 텍스트마이닝 기법을 활용한 고객 경험(Customer Experience) 관점의 신선식품 후기 리뷰 분석을 통한 만족도 강화 및 전략 방안 (Ongoing)
+- (Oct. 2021 ~ ) 텍스트마이닝 기법을 활용한 고객 경험(Customer Experience) 관점의 신선식품 후기 리뷰 분석 (Ongoing)
 - (Sep. 2021 ~ ) 빅데이터 기반 서비스개발 R&D, "고객의사결정여정(Customer Decision Journey)에 따른 오프라인 구매 행동 데이터 수집 시스템 및 딥러닝 기반 지능형 고객 분석 서비스"
 - (Jul. 2021 ~ Aug. 2021) 수출액 예측을 통한 수출 유망 국가 및 품목 추천 :: 앙상블 모형과 클러스터링을 활용한 기업 선호도 반영 추천 솔루션
 - (Oct. 2020 ~ Dec. 2020) 인천광역시 지방세 체납 효율화를 위한 빅데이터 분석 :: 체납자 예측과 악성 체납유형 중심으로 
