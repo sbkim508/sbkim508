@@ -21,7 +21,8 @@
 - (Sep. 2020) 서울특별시 빅데이터 캠퍼스 공모전 최우수상 
 
 ## Competition
-- (May. 2021) 신용카드 사용자 연체 예측 AI 경진대회 (65/714) ,Dacon 
+- (May. 2021) 신용카드 사용자 연체 예측 AI 경진대회 (65/714), Dacon 
+- (Dec. 2021) 물류 유통량 예측 경진대회 (33/414), Dacon
 
 ## Research Interests and Skills
 - Research Interests : Business Analytics, Machine/Deep Learning, Recommender System, Digital Marketing, Data Mining
