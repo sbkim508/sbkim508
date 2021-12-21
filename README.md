@@ -12,7 +12,7 @@
 
 ## Conference & Journal
 - "Predicting purchase behavior using customer browsing behavior and customer value" International Conference on E-Education, E-Business, E-Management, and E-Learning (IC4E), Osaka Japan, January 2022.
-- " " International Conference on Innovation and Management (IAM), Webinar, Jan 2022.
+- "A Topic Modeling Approach to the Analysis of Customer Experience" International Conference on Innovation and Management (IAM), Webinar, Jan 2022.
 - "앙상블 모델 개발을 통한 수출액 예측과 클러스터링 기반 유망 시장 추천", 한국지능정보시스템학회 추계학술대회, 2021.12
 
 ## Awards and Honors
