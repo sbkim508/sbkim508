@@ -29,6 +29,7 @@
 - Skills and Techniques : Python(Sklearn, Pytorch, Keras)  R, QGIS, SQL, Tableau etc
 
 ## Blog and Portfolio
+- LinkIn : https://www.linkedin.com/in/%EC%84%B1%EB%B2%94-%EA%B9%80-b2a42b211/
 - blog : https://blog.naver.com/tjdqja0508/222264860982 ; 학부 중심 활동
 - Portfolio : [SeongBeom_Kim_Portfolio.pdf](https://github.com/sbkim508/sbkim508/files/7184173/SeongBeom_Kim_Portfolio.pdf)
 
