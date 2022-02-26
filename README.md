@@ -26,8 +26,8 @@
 - (Dec. 2021) 물류 유통량 예측 경진대회 (33/411), Dacon
 
 ## Research Interests and Skills
-- Research Interests : Business Intelligence, Machine/Deep Learning, Recommender System, Behavior Modeling, NLP
-- Skills and Techniques : Python(Sklearn, Pytorch, Keras)  R, QGIS, SQL, Tableau etc
+- Research Interests : Business Intelligence, Customer Behavior, Machine/Deep Learning, Recommender System, NLP
+- Skills and Techniques : Python(Sklearn, Pytorch, Keras), R, QGIS, SQL, Tableau etc
 
 ## Blog and Portfolio
 - LinkedIn : https://www.linkedin.com/in/%EC%84%B1%EB%B2%94-%EA%B9%80-b2a42b211/
