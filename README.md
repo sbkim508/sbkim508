@@ -3,6 +3,7 @@
 - (Mar. 2015 ~ Aug. 2021) Accountings and Management, Bigdata Engineering Department, Soonchunhayng University 
 
 ## Experience & Project
+- (Jul. 2022 ~ ) 상장기업 ESG 평가 모델 개발, 미래에셋증권
 - (Jul. 2022 ~ ) 제조설비 실시간 이상탐지(Anomaly Detection) 시스템 구축, 롯데칠성음료(Lotte Chilsung)
 - (Oct. 2021 ~ ) 온라인 고객 행동을 반영한 딥러닝 기반 구매 예측과 고객 유형 분류에 관한 연구, 연세대학교 정보대학원
 - (Mar. 2022 ~ June. 2022) 익명 방문자의 개인화 서비스를 위한 온라인 행동 기반 인구통계정보 예측과 활용방안, 연세대학교 정보대학원
@@ -14,6 +15,10 @@
 - (Aug. 2020 ~ Sep. 2020) 서울시 응급의료 전용헬기를 위한 인계점 최적입지 분석
 
 ## Conference & Journal
+- "Predicting Online Purchase Behavior: A Deep Learning-based Multimodal Fusion Approach" in preparation for submission
+- "고객의 투자상품 선호도를 활용한 금융상품 추천시스템 개발" in preparation for submission
+- “A Deep Learning-based Purchase Prediction Using Customer Characteristics and Browsing Patterns”, International Conference on Business and Information Management (ICBIM), Webinar, Aug 2022
+- "Unraveling the relationship between customer experience and satisfaction in online grocery shopping" International Conference on Economics, Business, Tourism & Social Sciences (ICEBTS), Feb 2022.
 - "Predicting purchase behavior using customer browsing behavior and customer value" International Conference on E-Education, E-Business, E-Management, and E-Learning (IC4E), Osaka Japan, January 2022.
 - "A Topic Modeling Approach to the Analysis of Customer Experience" International Conference on Innovation and Management (IAM), Webinar, Jan 2022.
 - "앙상블 모델 개발을 통한 수출액 예측과 클러스터링 기반 유망 시장 추천", 한국지능정보시스템학회 추계학술대회, 2021.12
